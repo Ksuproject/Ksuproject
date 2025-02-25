@@ -25,6 +25,3 @@
 ## 📫 Как связаться со мной
 - 📧 Email: khkonovalova@gmail.com
 
-## 📊 Статистика
-[![Top Langs](https:[//github-readme-stats.vercel.app/api/top-langs/?username=Kseniya&layout=compact&theme=dark)](//github-readme-stats.vercel.app/api/top-langs/?username=Kseniya&layout=compact&theme=dark))]()
-[![Github Stats](https:[//github-readme-stats.vercel.app/api?username=Kseniya&show_icons=true&count_private=true&hide=issues&theme=dark)](//github-readme-stats.vercel.app/api?username=Kseniya&show_icons=true&count_private=true&hide=issues&theme=dark))]()
