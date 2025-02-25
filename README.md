@@ -1,0 +1,30 @@
+# 👋 Привет! Меня зовут Ксения
+
+## 🚀 Обо мне
+Аналитик CRM-систем и бизнес-процессов | Front-end разработка | No-code/Low-code
+
+🔍 Специализируюсь на работе с **Bitrix24** (коробочная и облачная версии), а также занимаюсь фронтенд-разработкой и no-code/low-code решениями.
+
+## ✨ Основные направления деятельности
+- 🏭 **Оптимизация и автоматизация бизнес-процессов**
+- 📝 Разработка технических заданий
+- 📄 Создание технической документации и инструкций
+- 🖥️ Фронтенд-разработка на **PHP**, **HTML** и **CSS**
+- 📊 Отрисовка схем бизнес-процессов в нотациях **BPMN**, **UML**, **EPC** и др.
+- 🧩 Реализация проектов с использованием **no-code** и **low-code** платформ
+
+## 🛠️ Навыки и инструменты
+- 💡 Владение языками программирования: **PHP**, **HTML**, **CSS**
+- 📁 Опыт работы с **XML** и различными нотациями
+- 🔬 Чтение и анализ кода, написание документации по готовому коду
+- 🚀 Использование **no-code** и **low-code** инструментов для быстрой разработки приложений и автоматизации процессов
+
+## 🎯 Проекты
+В работе...
+
+## 📫 Как связаться со мной
+- 📧 Email: khkonovalova@gmail.com
+
+## 📊 Статистика
+[![Top Langs](https:[//github-readme-stats.vercel.app/api/top-langs/?username=Kseniya&layout=compact&theme=dark)](//github-readme-stats.vercel.app/api/top-langs/?username=Kseniya&layout=compact&theme=dark))]()
+[![Github Stats](https:[//github-readme-stats.vercel.app/api?username=Kseniya&show_icons=true&count_private=true&hide=issues&theme=dark)](//github-readme-stats.vercel.app/api?username=Kseniya&show_icons=true&count_private=true&hide=issues&theme=dark))]()
