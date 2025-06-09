@@ -67,7 +67,7 @@ Annotation: The HTML file for an ERP system covering management of clients, deal
 ## 📫 Как связаться со мной
 - 📧 Email: khkonovalova@gmail.com
 
-**При скачивании моих работ, Вы можете отблагодарить меня, отправив поддержку https://www.donationalerts.com/r/li_syao **
+**При скачивании моих работ, Вы можете отблагодарить меня, отправив поддержку https://www.donationalerts.com/r/li_syao**
 
 
 ## 🌐 Socials:
