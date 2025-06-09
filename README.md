@@ -9,21 +9,65 @@
 - 🏭 **Оптимизация и автоматизация бизнес-процессов**
 - 📝 Разработка технических заданий
 - 📄 Создание технической документации и инструкций
-- 🖥️ Разработка на **PHP**, **HTML**, **JS**, **Vue.js**, **Node.js** и **CSS**.
+- 🖥️ Разработка на **HTML**, **JS**, **Vue.js**, **Node.js** и **CSS**.
 - 📊 Отрисовка схем бизнес-процессов в нотациях **BPMN**, **UML**, **EPC** и др.
-- 🧩 Реализация проектов с использованием **no-code** и **low-code** платформ
+- 🧩 Реализация проектов с использованием Битрикс24 и других CRM, интеграция с приложениями и учетными системами(1с, ERP)
 
 ## 🛠️ Навыки и инструменты
-- 💡 Владение языками программирования: **PHP**, **HTML**, **CSS**
+- 💡 Владение языками программирования: **HTML**, **JS**, **Vue.js**, **Node.js** и **CSS**.
 - 📁 Опыт работы с **XML** и различными нотациями
 - 🔬 Чтение и анализ кода, написание документации по готовому коду
 - 🚀 Использование **no-code** и **low-code** инструментов для быстрой разработки приложений и автоматизации процессов
 
 ## 🎯 Проекты
-В работе...
+📊CRM.html
+
+Аннотация: Файл содержит HTML-структуру для CRM-системы, предназначенной для управления контактами, задачами, аналитикой и диаграммами Ганта. Включает интерфейсы для добавления контактов и задач, фильтрации по приоритетам, а также журнал баг-репортов и экспорт данных в JSON и CSV.
+
+✅Structure.html
+
+Аннотация: HTML-файл описывает структуру компании, включая отделы (руководство, бухгалтерия, менеджерский отдел и др.), воронку продаж с этапами от лида до постпродажного обслуживания, а также папки задач и зависимости между ними. Используется для организации процессов и управления задачами.
+
+👩🏽‍💻Project.html
+
+Аннотация: Пустой HTML-файл, предназначенный для разработки интерфейса управления проектами. В текущем виде не содержит функциональности, но зарезервирован для дальнейшего расширения.
+
+📋Scrum.html
+
+Аннотация: Файл реализует интерфейс Scrum-системы с функциями управления задачами, спринтами, бэклогом и диаграммами Ганта. Включает формы для добавления задач и баг-репортов, фильтры по приоритетам, а также экспорт данных в JSON и CSV.
+
+🏭ERP.html
+
+Аннотация: HTML-файл для ERP-системы, охватывающей управление клиентами, сделками, задачами, проектами, сотрудниками, ресурсами и аналитикой. Содержит Kanban-доски, формы для создания клиентов, задач, смет, а также функции бронирования ресурсов, управления отпусками и генерации отчетов.
+
+
+
+File Annotations in English
+
+📊CRM.html
+
+Annotation: The file contains the HTML structure for a CRM system designed for managing contacts, tasks, analytics, and Gantt charts. It includes interfaces for adding contacts and tasks, filtering by priorities, as well as a bug report log and data export to JSON and CSV.
+
+✅Structure.html
+
+Annotation: The HTML file outlines the company structure, including departments (management, accounting, sales, etc.), a sales funnel with stages from lead to post-sale service, and task folders with dependencies. It is used for organizing processes and task management.
+
+👩🏽‍💻Project.html
+
+Annotation: An empty HTML file intended for developing a project management interface. Currently, it lacks functionality but is reserved for future expansion.
+
+📋Scrum.html
+
+Annotation: The file implements the interface for a Scrum system with features for managing tasks, sprints, backlogs, and Gantt charts. It includes forms for adding tasks and bug reports, priority filters, and data export to JSON and CSV.
+
+🏭ERP.html
+
+Annotation: The HTML file for an ERP system covering management of clients, deals, tasks, projects, employees, resources, and analytics. It includes Kanban boards, forms for creating clients, tasks, and estimates, as well as features for resource booking, vacation management, and report generation.
 
 ## 📫 Как связаться со мной
 - 📧 Email: khkonovalova@gmail.com
+
+**При скачивании моих работ, Вы можете отблагодарить меня, отправив поддержку https://www.donationalerts.com/r/li_syao **
 
 
 ## 🌐 Socials:
