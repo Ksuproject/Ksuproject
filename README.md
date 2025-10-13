@@ -64,8 +64,7 @@ Annotation: The file implements the interface for a Scrum system with features f
 
 Annotation: The HTML file for an ERP system covering management of clients, deals, tasks, projects, employees, resources, and analytics. It includes Kanban boards, forms for creating clients, tasks, and estimates, as well as features for resource booking, vacation management, and report generation.
 
-## 📫 Как связаться со мной
-- 📧 Email: khkonovalova@gmail.com
+
 
 **При скачивании моих работ, Вы можете отблагодарить меня, отправив поддержку https://www.donationalerts.com/r/li_syao**
 
